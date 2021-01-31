@@ -12,5 +12,9 @@ public class ActitimeLoginTest extends BaseTest{
 		ActitimeLoginPage login = new ActitimeLoginPage(driver);
 		login.loginMethod();
 	   System.out.println("Hello");
+	   System.out.println("Hello");
+	   System.out.println("Hello");
+	   System.out.println("Hello");
+	   System.out.println("Hello");
 	}
 }
