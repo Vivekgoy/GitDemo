@@ -11,5 +11,6 @@ public class ActitimeLoginTest extends BaseTest{
 	public void login() throws Exception{
 		ActitimeLoginPage login = new ActitimeLoginPage(driver);
 		login.loginMethod();
+	   System.out.println("Hello");
 	}
 }
